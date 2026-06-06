@@ -1,0 +1,7 @@
+Initialize a repository: git init
+Add individual files: git add 'file_name(s)'
+Add all the files: git add .  
+Message/Reason for the file: git commit -m "Message"
+Add the repository link (This needs to be created on GitHub/Bit Bucket):
+git remote add origin 'link to your git repo'
+Push everything to the branch: git push origin 'branch'
