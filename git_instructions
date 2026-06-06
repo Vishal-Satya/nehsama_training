@@ -5,3 +5,5 @@ Message/Reason for the file: git commit -m "Message"
 Add the repository link (This needs to be created on GitHub/Bit Bucket):
 git remote add origin 'link to your git repo'
 Push everything to the branch: git push origin 'branch'
+Clone a repo: git clone 'repo link'
+Status of a repo: git status
